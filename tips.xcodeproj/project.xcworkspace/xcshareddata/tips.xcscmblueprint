@@ -1,18 +1,20 @@
 {
-  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "033B762D147C138D077EDB8B9C90C9D7A8FAF93C",
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "E41B9946537EC83420C2A6A18A5FF41AEC2BD6C6",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
 
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "985080A034B45ABA53C69EA91431C6D4C7775639" : 0,
     "033B762D147C138D077EDB8B9C90C9D7A8FAF93C" : 0,
-    "AFDEEBE630A47BB7103CDA68B2CF0E7877EB77E2" : 0,
-    "985080A034B45ABA53C69EA91431C6D4C7775639" : 0
+    "E41B9946537EC83420C2A6A18A5FF41AEC2BD6C6" : 0,
+    "AFDEEBE630A47BB7103CDA68B2CF0E7877EB77E2" : 0
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "B31AFA7D-F5D1-45BA-B3DF-F3C36F4F5419",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "985080A034B45ABA53C69EA91431C6D4C7775639" : "tips\/tips\/",
     "033B762D147C138D077EDB8B9C90C9D7A8FAF93C" : "CodePath%20University\/",
-    "AFDEEBE630A47BB7103CDA68B2CF0E7877EB77E2" : "tips\/",
-    "985080A034B45ABA53C69EA91431C6D4C7775639" : "tips\/tips\/"
+    "E41B9946537EC83420C2A6A18A5FF41AEC2BD6C6" : "Prework%20Assignment%20-%20Tip%20Calculator\/",
+    "AFDEEBE630A47BB7103CDA68B2CF0E7877EB77E2" : "tips\/"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "tips",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
@@ -32,6 +34,11 @@
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/TasfiaAddrita\/Tip-Calculator.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AFDEEBE630A47BB7103CDA68B2CF0E7877EB77E2"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:TasfiaAddrita\/Tip-Calculator.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E41B9946537EC83420C2A6A18A5FF41AEC2BD6C6"
     }
   ]
 }
