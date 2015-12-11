@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "033B762D147C138D077EDB8B9C90C9D7A8FAF93C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "033B762D147C138D077EDB8B9C90C9D7A8FAF93C" : 0,
+    "AFDEEBE630A47BB7103CDA68B2CF0E7877EB77E2" : 0,
+    "985080A034B45ABA53C69EA91431C6D4C7775639" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "B31AFA7D-F5D1-45BA-B3DF-F3C36F4F5419",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "033B762D147C138D077EDB8B9C90C9D7A8FAF93C" : "CodePath%20University\/",
+    "AFDEEBE630A47BB7103CDA68B2CF0E7877EB77E2" : "tips\/",
+    "985080A034B45ABA53C69EA91431C6D4C7775639" : "tips\/tips\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "tips",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "tips.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/TasfiaAddrita\/Tip-Calculator.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "033B762D147C138D077EDB8B9C90C9D7A8FAF93C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/TasfiaAddrita\/Tip-Calculator.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "985080A034B45ABA53C69EA91431C6D4C7775639"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/TasfiaAddrita\/Tip-Calculator.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AFDEEBE630A47BB7103CDA68B2CF0E7877EB77E2"
+    }
+  ]
+}
