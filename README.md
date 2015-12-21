@@ -1,6 +1,6 @@
-# Pre-work - Tip Master
+# Pre-work: Tipster
 
-Tip Master is a tip calculator application for iOS.
+Tipster is a tip calculator application for iOS.
 
 Submitted by: Tasfia Addrita
 
@@ -22,6 +22,7 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality!
+- [x] Replaced segemented control with a slider to provide the user more options for tip percentages.
 
 ## Video Walkthrough 
 
