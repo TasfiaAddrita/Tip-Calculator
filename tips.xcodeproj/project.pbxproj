@@ -17,6 +17,7 @@
 		C9682DAD1C11FB2100D7B809 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9682DAC1C11FB2100D7B809 /* SettingsViewController.swift */; };
 		C9682DAF1C12A10C00D7B809 /* CAGradientLayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9682DAE1C12A10C00D7B809 /* CAGradientLayer.swift */; };
 		C9682DC11C13E1FE00D7B809 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C9682DC01C13E1FE00D7B809 /* Default-568h@2x.png */; };
+		C99F102B1C22567800A3B0D3 /* SettingsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C99F102A1C22567800A3B0D3 /* SettingsTableViewController.swift */; };
 		C9C6DE471C1AAF8100A3546E /* Untitled.png in Resources */ = {isa = PBXBuildFile; fileRef = C9C6DE461C1AAF8100A3546E /* Untitled.png */; };
 /* End PBXBuildFile section */
 
@@ -54,6 +55,7 @@
 		C9682DAC1C11FB2100D7B809 /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 		C9682DAE1C12A10C00D7B809 /* CAGradientLayer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CAGradientLayer.swift; sourceTree = "<group>"; };
 		C9682DC01C13E1FE00D7B809 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		C99F102A1C22567800A3B0D3 /* SettingsTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsTableViewController.swift; sourceTree = "<group>"; };
 		C9C6DE461C1AAF8100A3546E /* Untitled.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Untitled.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -111,6 +113,7 @@
 				C9682D801C11E7CC00D7B809 /* ViewController.swift */,
 				C9682DAC1C11FB2100D7B809 /* SettingsViewController.swift */,
 				C9682D821C11E7CC00D7B809 /* Main.storyboard */,
+				C99F102A1C22567800A3B0D3 /* SettingsTableViewController.swift */,
 				C9C6DE461C1AAF8100A3546E /* Untitled.png */,
 				C9682D851C11E7CC00D7B809 /* Assets.xcassets */,
 				C9682D871C11E7CC00D7B809 /* LaunchScreen.storyboard */,
@@ -271,6 +274,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C9682D811C11E7CC00D7B809 /* ViewController.swift in Sources */,
+				C99F102B1C22567800A3B0D3 /* SettingsTableViewController.swift in Sources */,
 				C9682D7F1C11E7CC00D7B809 /* AppDelegate.swift in Sources */,
 				C9682DAD1C11FB2100D7B809 /* SettingsViewController.swift in Sources */,
 				C9682DAF1C12A10C00D7B809 /* CAGradientLayer.swift in Sources */,

@@ -9,15 +9,15 @@
 import UIKit
 
 class SettingsViewController: UIViewController {
-
+    
     override func viewDidLoad() {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
         
-        let background = CAGradientLayer().purpleToBlue()
-        background.frame = self.view.bounds
-        self.view.layer.insertSublayer(background, atIndex: 0)
+//        let background = CAGradientLayer().purpleToBlue()
+//        background.frame = self.view.bounds
+//        self.view.layer.insertSublayer(background, atIndex: 0)
         
     }
 

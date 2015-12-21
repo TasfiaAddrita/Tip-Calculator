@@ -40,6 +40,10 @@ class ViewController: UIViewController {
         totalLabel_3.text = String(format: "$%.2f", total_3)
         totalLabel_4.text = String(format: "$%.2f", total_4)
         
+//        let defaults = NSUserDefaults.standardUserDefaults()
+//        defaults.setFloat(billAmount, forKey: "billAmount")
+//        defaults.synchronize()
+        
     }
     
     override func viewDidLoad() {
@@ -47,13 +51,20 @@ class ViewController: UIViewController {
         
         // Do any additional setup after loading the view, typically from a nib.
         
+        //let billAmount = NSString(string: billField.text!).floatValue
+        
         let background = CAGradientLayer().purpleToBlue()
         background.frame = self.view.bounds
         self.view.layer.insertSublayer(background, atIndex: 0)
         
         billField.becomeFirstResponder()
         billField.attributedPlaceholder = NSAttributedString(string:"$", attributes:[NSForegroundColorAttributeName: UIColor.whiteColor()])
-    
+        
+        //let defaults = NSUserDefaults.standardUserDefaults()
+        //let previousBillAmount = defaults.floatForKey("billAmount")
+        
+        
+        
         tipPecentageLabel.text = "15"
         
         tipLabel.text = "+ $0.00"
@@ -61,6 +72,7 @@ class ViewController: UIViewController {
         totalLabel_2.text = "$0.00"
         totalLabel_3.text = "$0.00"
         totalLabel_4.text = "$0.00"
+        
         
     }
 
