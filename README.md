@@ -31,7 +31,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Overall, the pre-work was challenging, since I have never programmed iOS applications. Even though I have programming experience, this exercise definitely proved difficult since I have to not only keep in mind of what I'm coding, but how it affects the graphical user interface (GUI, the storyboard), and vice versa. The 2 hours only reflect on the the time I spent making the gradient background and replacing the segemented control with a slider, as well as the steps outlined in the video provided by CodePath. However, I have spent many more hours attempting to set up the settings view controller and adding more features. I hope to update the app to reflect the optionals and extra features.
+Overall, the pre-work was challenging, since I have never programmed iOS applications. Even though I have programming experience, this exercise definitely proved difficult since I have to not only keep in mind of what I'm coding, but how it affects the graphical user interface (GUI, the storyboard), and vice versa. The 2 hours only reflect on the the time I spent making the gradient background and replacing the segemented control with a slider, as well as the steps outlined in the video provided by CodePath. However, I have spent many more hours attempting to set up the settings view controller and adding more features. I hope to update the app to reflect the optionals and extra features soon.
 
 ## License
 
