@@ -137,7 +137,9 @@
                             <outletCollection property="gestureRecognizers" destination="5vt-oH-1CX" appends="YES" id="6dq-JD-L3f"/>
                         </connections>
                     </view>
-                    <navigationItem key="navigationItem" title="Tip Master" id="0H4-29-stv"/>
+                    <navigationItem key="navigationItem" title="Tip Master" id="0H4-29-stv">
+                        <barButtonItem key="rightBarButtonItem" title="Settings" id="uoN-jM-Vcn"/>
+                    </navigationItem>
                     <connections>
                         <outlet property="billField" destination="V48-tf-QTK" id="xcV-4d-gJV"/>
                         <outlet property="tipLabel" destination="pSx-Oz-4WC" id="Spc-Lx-ZF5"/>
