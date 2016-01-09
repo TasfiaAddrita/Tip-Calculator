@@ -11,6 +11,9 @@ import UIKit
 class SettingsTableViewController: UITableViewController {
 
     @IBOutlet weak var minimumField: UITextField!
+    @IBOutlet weak var maximumField: UITextField!
+    @IBOutlet weak var defaultField: UITextField!
+    @IBOutlet weak var incrementField: UITextField!
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -21,13 +24,22 @@ class SettingsTableViewController: UITableViewController {
         // Uncomment the following line to display an Edit button in the navigation bar for this view controller.
         // self.navigationItem.rightBarButtonItem = self.editButtonItem()
         
-        //minimumField.becomeFirstResponder()
+        
     }
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
+    
+    @IBAction func onEditingChange(sender: AnyObject) {
+        
+        let minimumValue = NSString(string: minimumField.text!).integerValue
+        let minVal = NSUserDefaults.standardUserDefaults()
+        minVal.setInteger(minimumValue, forKey: "minVal")
+        
+    }
+    
 
     // MARK: - Table view data source
 

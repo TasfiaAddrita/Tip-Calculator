@@ -14,7 +14,6 @@
 		C9682D891C11E7CC00D7B809 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C9682D871C11E7CC00D7B809 /* LaunchScreen.storyboard */; };
 		C9682D941C11E7CD00D7B809 /* tipsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9682D931C11E7CD00D7B809 /* tipsTests.swift */; };
 		C9682D9F1C11E7CD00D7B809 /* tipsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9682D9E1C11E7CD00D7B809 /* tipsUITests.swift */; };
-		C9682DAD1C11FB2100D7B809 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9682DAC1C11FB2100D7B809 /* SettingsViewController.swift */; };
 		C9682DAF1C12A10C00D7B809 /* CAGradientLayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9682DAE1C12A10C00D7B809 /* CAGradientLayer.swift */; };
 		C9682DC11C13E1FE00D7B809 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C9682DC01C13E1FE00D7B809 /* Default-568h@2x.png */; };
 		C99F102B1C22567800A3B0D3 /* SettingsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C99F102A1C22567800A3B0D3 /* SettingsTableViewController.swift */; };
@@ -52,7 +51,6 @@
 		C9682D9A1C11E7CD00D7B809 /* tipsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = tipsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C9682D9E1C11E7CD00D7B809 /* tipsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tipsUITests.swift; sourceTree = "<group>"; };
 		C9682DA01C11E7CD00D7B809 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		C9682DAC1C11FB2100D7B809 /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 		C9682DAE1C12A10C00D7B809 /* CAGradientLayer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CAGradientLayer.swift; sourceTree = "<group>"; };
 		C9682DC01C13E1FE00D7B809 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 		C99F102A1C22567800A3B0D3 /* SettingsTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsTableViewController.swift; sourceTree = "<group>"; };
@@ -111,7 +109,6 @@
 				C9682D7E1C11E7CC00D7B809 /* AppDelegate.swift */,
 				C9682DAE1C12A10C00D7B809 /* CAGradientLayer.swift */,
 				C9682D801C11E7CC00D7B809 /* ViewController.swift */,
-				C9682DAC1C11FB2100D7B809 /* SettingsViewController.swift */,
 				C9682D821C11E7CC00D7B809 /* Main.storyboard */,
 				C99F102A1C22567800A3B0D3 /* SettingsTableViewController.swift */,
 				C9C6DE461C1AAF8100A3546E /* Untitled.png */,
@@ -276,7 +273,6 @@
 				C9682D811C11E7CC00D7B809 /* ViewController.swift in Sources */,
 				C99F102B1C22567800A3B0D3 /* SettingsTableViewController.swift in Sources */,
 				C9682D7F1C11E7CC00D7B809 /* AppDelegate.swift in Sources */,
-				C9682DAD1C11FB2100D7B809 /* SettingsViewController.swift in Sources */,
 				C9682DAF1C12A10C00D7B809 /* CAGradientLayer.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

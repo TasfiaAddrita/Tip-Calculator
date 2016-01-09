@@ -187,6 +187,9 @@
                                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     <fontDescription key="fontDescription" type="system" pointSize="16"/>
                                                     <textInputTraits key="textInputTraits" keyboardType="decimalPad"/>
+                                                    <connections>
+                                                        <action selector="onEditingChange:" destination="XGG-OU-jFC" eventType="editingChanged" id="EuF-qj-OC4"/>
+                                                    </connections>
                                                 </textField>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Minimum:" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="3Z5-T2-ndw">
                                                     <rect key="frame" x="15" y="12" width="71" height="21"/>
@@ -277,6 +280,9 @@
                     </tableView>
                     <navigationItem key="navigationItem" title="Settings" id="z1K-Ds-mSW"/>
                     <connections>
+                        <outlet property="defaultField" destination="f9S-Oa-ACM" id="YC0-nr-M49"/>
+                        <outlet property="incrementField" destination="qlg-8R-K5q" id="Ixu-df-aud"/>
+                        <outlet property="maximumField" destination="fej-oR-NAr" id="B9V-H7-Ppv"/>
                         <outlet property="minimumField" destination="5Zq-uH-NBC" id="1zB-Yz-wWU"/>
                     </connections>
                 </tableViewController>
@@ -300,7 +306,7 @@
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="E93-2n-Tak" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="3913" y="279"/>
+            <point key="canvasLocation" x="3964" y="279"/>
         </scene>
     </scenes>
     <resources>
